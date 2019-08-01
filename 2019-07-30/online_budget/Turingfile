@@ -1,0 +1,7 @@
+[problem]
+title = "There are wide limits to our ambitions"
+
+[scoring]
+goals = [
+    "n_times_max_B", "enumerate_one_by_one", "n_is_one"
+]

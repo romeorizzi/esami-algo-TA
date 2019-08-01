@@ -1,0 +1,11 @@
+function conta_storie(n) callbacks {
+   function B0();
+   function x(i);
+}
+
+main {
+    read n;
+    call res = conta_storie(n);
+    write res;
+}    
+
