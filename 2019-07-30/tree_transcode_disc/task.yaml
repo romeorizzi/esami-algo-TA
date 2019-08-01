@@ -1,0 +1,11 @@
+memory_limit: 256
+name: tree_transcode_disc
+time_limit: 1.0
+title: Trascodifica di alberi ordinati - discendenza in pre o post-order?
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""
+
+
+

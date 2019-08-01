@@ -1,0 +1,5 @@
+memory_limit: 256
+name: is_shuffle_of
+time_limit: 1.0
+title: Can a deck of cards be obtained as the shuffle of two?
+token_mode: infinite
