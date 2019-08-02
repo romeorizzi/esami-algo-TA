@@ -1,0 +1,7 @@
+[problem]
+title = "Counting the possible traces of a budget mantained non-negative online (guided approach version)"
+
+[scoring]
+goals = [
+    "ricorsione_semplice_guidata", "ricorsione_semplice_autogestita", "ricorsione_con_memoizzazione"
+]

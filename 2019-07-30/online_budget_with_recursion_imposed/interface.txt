@@ -1,0 +1,12 @@
+function num_traces_starting_from(starting_budget_for_current_period,num_periods_after_current_one) callbacks {
+   function incoming_x_at_the_end_of_current_period(num_periods_after_current_one);
+   function call_num_traces_starting_from(starting_budget_for_current_period,num_periods_after_current_one);
+}
+
+main {
+    read num_periods_after_current_one;
+    read starting_budget_for_current_period;
+    call res = num_traces_starting_from(starting_budget_for_current_period,num_periods_after_current_one);
+    write res;
+}    
+

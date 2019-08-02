@@ -1,0 +1,12 @@
+function conta_storie(n, B0, x[]);
+
+main {
+    read n;
+    read B0;
+    for i to n {
+        read x[i];
+    }
+    call res = conta_storie(n, B0, x);
+    write res;
+}    
+

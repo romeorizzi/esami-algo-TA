@@ -1,0 +1,9 @@
+memory_limit: 256
+name: online_budget
+time_limit: 2.0
+title: Histories of a budget mantained non-negative online
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""
+
